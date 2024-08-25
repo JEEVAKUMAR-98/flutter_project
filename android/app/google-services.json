@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "742567867072",
+    "project_id": "master-go-flutter",
+    "storage_bucket": "master-go-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742567867072:android:b9ec3130b4a4f3c0d4b325",
+        "android_client_info": {
+          "package_name": "com.master.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhsigZ4zpPoWSST-ZubNurKR7Hj0gK8og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
